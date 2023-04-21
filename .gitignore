@@ -135,5 +135,4 @@ dmypy.json
 
 # Custom gitignore
 .DS_Store
-data/
 migrations/
