@@ -31,4 +31,4 @@ streamlit run src/app.py
 
 Here is the results on the downloaded telegram chat data with the given application. 
 
-![](data/sample.png)
+![](data/sample.PNG)
